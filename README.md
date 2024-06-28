@@ -106,11 +106,8 @@ Postman 시연
 <br/>
 
 ## 📃 Docs
-🔗 [사용자 요구사항 정의서](https://www.notion.so/codestates/57400b88753b4aa3bdf5583ef0f4d871?v=c6d5af932516433b9595a493267fe267)
 <br>
 🔗 [storyboard](https://www.figma.com/file/E31DMhh7POsaZqItBH10Hq/재개발구역11(Pre---Project)?type=whiteboard&node-id=0-1&t=ITDVpwvWzNWSTrA4-0)
-<br>
-🔗 [개발자 테스트 체크리스트](https://www.notion.so/codestates/de686c1498624f2185ebd8b8e0d6abdd)
 
 <br>
 <br>
