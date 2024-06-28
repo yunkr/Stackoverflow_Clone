@@ -104,11 +104,3 @@ Postman 시연
 
 <br/>
 <br/>
-
-## 📃 Docs
-<br>
-🔗 [storyboard](https://www.figma.com/file/E31DMhh7POsaZqItBH10Hq/재개발구역11(Pre---Project)?type=whiteboard&node-id=0-1&t=ITDVpwvWzNWSTrA4-0)
-
-<br>
-<br>
-
